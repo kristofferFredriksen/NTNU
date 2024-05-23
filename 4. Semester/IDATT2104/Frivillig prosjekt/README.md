@@ -38,10 +38,10 @@ Følg disse trinnene for å kjøre koden i EDA Playground:
 
 Når du kjører simuleringen, vil du se noe lignende følgende utdata:
 
-Dot product result 1: <resultat1>
-Dot product result 2: <resultat2>
-Dot product result 3: <resultat3>
-Dot product result 4: <resultat4>
+- Dot product result 1: <resultat1>
+- Dot product result 2: <resultat2>
+- Dot product result 3: <resultat3>
+- Dot product result 4: <resultat4>
 
 ## Forfatter
 
