@@ -14,8 +14,9 @@ Følg disse trinnene for å kjøre koden i EDA Playground:
 1. **Åpne EDA Playground:**
    - Gå til [EDA Playground](https://www.edaplayground.com/).
 
-2. **Velg SystemVerilog/Verilog som språk
+2. **Velg SystemVerilog/Verilog som språk**
    - I panelet til venstre under Testbench + design
+
 4. **Velg Icarus Verilog 12.0 som simulator:**
    - I panelet til venstre, under "Tools & Simulators", velg "Icarus Verilog 12.0" som simulator.
 
