@@ -20,18 +20,21 @@ Følg disse trinnene for å kjøre koden i EDA Playground:
 4. **Velg Icarus Verilog 12.0 som simulator:**
    - I panelet til venstre, under "Tools & Simulators", velg "Icarus Verilog 12.0" som simulator.
 
-5. **Legg til Verilog-filer:**
+5. **Generer bølgeskjema**
+   - I panelet til venstre, under "Tools & Simulators", huk av boksen som sier "Open EPWave after run".
+
+6. **Legg til Verilog-filer:**
    - Klikk på "Add Files" og legg til følgende filer:
      - parallell_dot_product_d.v
      - parallell_dot_product_tb.v
 
-6. **Kopier innholdet fra GitHub-repoet:**
+7. **Kopier innholdet fra GitHub-repoet:**
    - Kopier innholdet fra hver fil i repoet ditt til de tilsvarende filene i EDA Playground.
 
-7. **Kjør simuleringen:**
+8. **Kjør simuleringen:**
    - Klikk på "Run" øverst til venstre i EDA Playground for å starte simuleringen.
 
-8. **Se resultatene:**
+9. **Se resultatene:**
    - Resultatene fra testbenken vil vises i utdataområdet nederst på siden. Du kan også se bølgeformene hvis du har aktivert `$dumpfile` og `$dumpvars` i testbenken.
 
 ## Eksempel på output
