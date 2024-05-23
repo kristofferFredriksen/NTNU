@@ -20,7 +20,7 @@ Følg disse trinnene for å kjøre koden i EDA Playground:
 4. **Velg Icarus Verilog 12.0 som simulator:**
    - I panelet til venstre, under "Tools & Simulators", velg "Icarus Verilog 12.0" som simulator.
 
-5. **Generer bølgeskjema**
+5. **Generer bølgeskjema:**
    - I panelet til venstre, under "Tools & Simulators", huk av boksen som sier "Open EPWave after run".
 
 6. **Legg til Verilog-filer:**
